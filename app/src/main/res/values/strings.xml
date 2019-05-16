@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string name="btn_dollar_label1">Dollar</string>
+    <string name="btn_euro_label1">Euro</string>
+    <string name="btn_won_label1">Won</string>
+    <string name="rmb_hint">Input RMB</string>
+    <string name="btn_opencfg_label">config</string>
+    <string name="btn_save_label">SAVE</string>
+    <string name="btn_2">Button 2</string>
+</resources>
